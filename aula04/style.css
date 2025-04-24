@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    color: pink;
+    text-decoration:underline;
+    text-align: center;
+    margin-top: 450px;
+}
